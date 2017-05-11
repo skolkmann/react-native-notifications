@@ -1,4 +1,4 @@
-# Snackbar
+# Notifications
 
 ## What this is
 
